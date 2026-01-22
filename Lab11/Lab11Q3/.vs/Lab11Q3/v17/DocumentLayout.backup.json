@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ashfa\\Visual Programing Labs\\Lab11\\Lab11Q3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB54D1A-F8D8-4A31-80F7-0A131F8EAF59}|Lab11Q3\\Lab11Q3.csproj|c:\\users\\ashfa\\visual programing labs\\lab11\\lab11q3\\lab11q3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB54D1A-F8D8-4A31-80F7-0A131F8EAF59}|Lab11Q3\\Lab11Q3.csproj|solutionrelative:lab11q3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ashfa\\Visual Programing Labs\\Lab11\\Lab11Q3\\Lab11Q3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab11Q3\\Program.cs",
+              "ToolTip": "C:\\Users\\ashfa\\Visual Programing Labs\\Lab11\\Lab11Q3\\Lab11Q3\\Program.cs",
+              "RelativeToolTip": "Lab11Q3\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T12:53:29.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

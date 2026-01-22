@@ -1,0 +1,7 @@
+C:\Users\ashfa\Visual Programing Labs\Lab11\Lab11Q6\Lab11Q6\bin\Debug\Lab11Q6.exe.config
+C:\Users\ashfa\Visual Programing Labs\Lab11\Lab11Q6\Lab11Q6\bin\Debug\Lab11Q6.exe
+C:\Users\ashfa\Visual Programing Labs\Lab11\Lab11Q6\Lab11Q6\bin\Debug\Lab11Q6.pdb
+C:\Users\ashfa\Visual Programing Labs\Lab11\Lab11Q6\Lab11Q6\obj\Debug\Lab11Q6.csproj.AssemblyReference.cache
+C:\Users\ashfa\Visual Programing Labs\Lab11\Lab11Q6\Lab11Q6\obj\Debug\Lab11Q6.csproj.CoreCompileInputs.cache
+C:\Users\ashfa\Visual Programing Labs\Lab11\Lab11Q6\Lab11Q6\obj\Debug\Lab11Q6.exe
+C:\Users\ashfa\Visual Programing Labs\Lab11\Lab11Q6\Lab11Q6\obj\Debug\Lab11Q6.pdb

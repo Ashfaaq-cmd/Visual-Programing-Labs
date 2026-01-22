@@ -1,0 +1,17 @@
+C:\Users\ashfa\Visual Programing Labs\Lab11\Lab11Q2\Lab11Q2\bin\Debug\net8.0-windows\Lab11Q2.exe
+C:\Users\ashfa\Visual Programing Labs\Lab11\Lab11Q2\Lab11Q2\bin\Debug\net8.0-windows\Lab11Q2.deps.json
+C:\Users\ashfa\Visual Programing Labs\Lab11\Lab11Q2\Lab11Q2\bin\Debug\net8.0-windows\Lab11Q2.runtimeconfig.json
+C:\Users\ashfa\Visual Programing Labs\Lab11\Lab11Q2\Lab11Q2\bin\Debug\net8.0-windows\Lab11Q2.dll
+C:\Users\ashfa\Visual Programing Labs\Lab11\Lab11Q2\Lab11Q2\bin\Debug\net8.0-windows\Lab11Q2.pdb
+C:\Users\ashfa\Visual Programing Labs\Lab11\Lab11Q2\Lab11Q2\obj\Debug\net8.0-windows\Lab11Q2.Form1.resources
+C:\Users\ashfa\Visual Programing Labs\Lab11\Lab11Q2\Lab11Q2\obj\Debug\net8.0-windows\Lab11Q2.csproj.GenerateResource.cache
+C:\Users\ashfa\Visual Programing Labs\Lab11\Lab11Q2\Lab11Q2\obj\Debug\net8.0-windows\Lab11Q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashfa\Visual Programing Labs\Lab11\Lab11Q2\Lab11Q2\obj\Debug\net8.0-windows\Lab11Q2.AssemblyInfoInputs.cache
+C:\Users\ashfa\Visual Programing Labs\Lab11\Lab11Q2\Lab11Q2\obj\Debug\net8.0-windows\Lab11Q2.AssemblyInfo.cs
+C:\Users\ashfa\Visual Programing Labs\Lab11\Lab11Q2\Lab11Q2\obj\Debug\net8.0-windows\Lab11Q2.csproj.CoreCompileInputs.cache
+C:\Users\ashfa\Visual Programing Labs\Lab11\Lab11Q2\Lab11Q2\obj\Debug\net8.0-windows\Lab11Q2.sourcelink.json
+C:\Users\ashfa\Visual Programing Labs\Lab11\Lab11Q2\Lab11Q2\obj\Debug\net8.0-windows\Lab11Q2.dll
+C:\Users\ashfa\Visual Programing Labs\Lab11\Lab11Q2\Lab11Q2\obj\Debug\net8.0-windows\refint\Lab11Q2.dll
+C:\Users\ashfa\Visual Programing Labs\Lab11\Lab11Q2\Lab11Q2\obj\Debug\net8.0-windows\Lab11Q2.pdb
+C:\Users\ashfa\Visual Programing Labs\Lab11\Lab11Q2\Lab11Q2\obj\Debug\net8.0-windows\Lab11Q2.genruntimeconfig.cache
+C:\Users\ashfa\Visual Programing Labs\Lab11\Lab11Q2\Lab11Q2\obj\Debug\net8.0-windows\ref\Lab11Q2.dll

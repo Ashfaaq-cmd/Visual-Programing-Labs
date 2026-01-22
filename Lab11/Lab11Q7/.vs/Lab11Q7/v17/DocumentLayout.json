@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ashfa\\Visual Programing Labs\\Lab11\\Lab11Q7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1A2001-A302-444A-BA02-1AB68D9A5C05}|Lab11Q7\\Lab11Q7.csproj|c:\\users\\ashfa\\visual programing labs\\lab11\\lab11q7\\lab11q7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1A2001-A302-444A-BA02-1AB68D9A5C05}|Lab11Q7\\Lab11Q7.csproj|solutionrelative:lab11q7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1A2001-A302-444A-BA02-1AB68D9A5C05}|Lab11Q7\\Lab11Q7.csproj|c:\\users\\ashfa\\visual programing labs\\lab11\\lab11q7\\lab11q7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A1A2001-A302-444A-BA02-1AB68D9A5C05}|Lab11Q7\\Lab11Q7.csproj|solutionrelative:lab11q7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ashfa\\Visual Programing Labs\\Lab11\\Lab11Q7\\Lab11Q7\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab11Q7\\Form1.cs",
+              "ToolTip": "C:\\Users\\ashfa\\Visual Programing Labs\\Lab11\\Lab11Q7\\Lab11Q7\\Form1.cs",
+              "RelativeToolTip": "Lab11Q7\\Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T13:41:25.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ashfa\\Visual Programing Labs\\Lab11\\Lab11Q7\\Lab11Q7\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab11Q7\\Form1.cs",
+              "ToolTip": "C:\\Users\\ashfa\\Visual Programing Labs\\Lab11\\Lab11Q7\\Lab11Q7\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab11Q7\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T13:36:07.014Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
